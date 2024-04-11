@@ -1,4 +1,6 @@
-Project Link - https://codeguy0.github.io/SpaceHost-Prototype/
+#Project Link:
+
+https://codeguy0.github.io/SpaceHost-Prototype/
 
 # Overview of SpaceHost
 
