@@ -1,4 +1,7 @@
+Project Link - https://codeguy0.github.io/SpaceHost-Prototype/
+
 # Overview of SpaceHost
+
 SpaceHost is a web application that acts as an aggregator between large-scale and small-scale universities, as well as individuals, who want to book spaces such as grounds, hostels, and playing areas for events. It simplifies the process of finding and booking spaces for various events, including sports tournaments, cultural festivals, and academic conferences.
 
 # Features of SpaceHost
